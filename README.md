@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project provides file importing functionality it can uploads the json file in browsers memory as javascript object
 
 ## Available Scripts
 
